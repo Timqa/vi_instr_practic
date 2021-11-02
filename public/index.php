@@ -1,2 +1,2 @@
 <?php
-include './font.php';
+include './front.php';
